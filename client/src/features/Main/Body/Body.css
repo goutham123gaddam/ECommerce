@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+
+.header-image {
+    height:90vh;
+    width:100%; /*so that right side scrollbar is considered */
+}
+
+.header-image img{
+    height:100%;
+    width:100%;
+}
+
+.body-highlight{
+    text-align: center;
+    font-size: 52px;
+    font-family: 'Rubik' ,Arial, sans-serif;
+    background-color: #08ac89;
+    padding: 15vh 0vw;
+    font-weight: 600;
+}

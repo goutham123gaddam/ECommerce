@@ -1,16 +1,16 @@
 import React from "react";
-import './Deals.css';
+import './Latest.css';
 import Slideshow from "../SlideShow/Slideshow";
 import '../common.css'
 
-function Deals() {
+function Latest() {
 
     return (
         <>
-            <h2 className="title">Deals of the day</h2>
+            <h2 className="title">Latest products</h2>
             <Slideshow />
         </>
     )
 }
 
-export default Deals;
+export default Latest;
