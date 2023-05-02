@@ -1,3 +1,11 @@
 .slideshow {
-    
+    display: flex;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    margin: 15px 5px;
+}
+
+/* 0px hides the scrollbar */
+.slideshow::-webkit-scrollbar {
+    width: 0px; /* Width of the scrollbar */
 }

@@ -5,8 +5,9 @@
     border: 1px solid black;
     border-radius: 30px;
     background-color: white;
-    width: 25vw;
+    min-width: 20vw;
     margin: 5px;
+    margin: 0vw 1vw;
 }
 
 .image {
