@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+.container {
+    position: relative;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: white;
+    width: 40vh;
+    margin: 5px;
+}
+
+.image {
+    padding: 15px 0px;
+}
+
+.image img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.discount {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: #16193A;
+    color: white;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+.speciality-container {
+    display: flex;
+    justify-content: center;
+}
+
+.speciality {
+    background-color: rgb(213, 210, 210);
+    color: #16193A;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.company {
+    color: #686868;
+    font-family: 'Rubik' ,Arial, sans-serif;
+    padding: 15px 2px 0px 13px;
+}
+
+.model {
+    font-family: 'Rubik' ,Arial, sans-serif;
+    font-size: large;
+    font-weight: 600;
+    padding: 2px 2px 15px 13px;
+}
+
+.price {
+    font-family: 'Rubik' ,Arial, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    padding: 2px 2px 15px 13px;
+}
+
+.shop-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.shop-button {
+    background-color: #16193A;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}

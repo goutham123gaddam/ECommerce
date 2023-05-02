@@ -1,0 +1,49 @@
+.Header1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 10vh;
+    background-color: #08ac89;
+}
+
+.header1-right {
+    display: flex;
+}
+
+.header1-left > .header-button {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 5px 25px;
+    text-decoration: none;
+    color: white;
+    transition: transform 0.3s ease;
+}
+
+.header1-right > .header-button {
+    padding: 5px 25px;
+    text-decoration: none;
+    color: white;
+    transition: transform 0.3s ease;
+}
+
+.header-button:hover {
+    transform: scale(1.02);
+    color: #16193A;
+}
+
+.login-button {
+    padding: 5px 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: white;
+    color: rgb(17, 34, 51);
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.login-button:hover {
+    transform: scale(1.2);
+    color: #16193A;
+}
+
