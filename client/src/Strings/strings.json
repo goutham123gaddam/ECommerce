@@ -1,0 +1,10 @@
+{
+    "latest":[
+        {"discount":"20","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/S23-Ultra_237x237.png.eeimg.400.1-1.default.jpg","speciality":"Unlimited","company":"Samsung Galaxy","model":"S23 Ultra","price":"30"},
+        {"discount":"5","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/JDD_iPhone14.png.eeimg.400.1-1.default.jpg","speciality":"25GB Data","company":"Apple","model":"13 Pro","price":"50"},
+        {"discount":"10","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/Pixel7Pro_Hazel_GWPremoval_237x237.png.eeimg.400.1-1.default.jpg","speciality":"Unlimited","company":"Google","model":"Pixel","price":"30"},
+        {"discount":"25","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/JDD_iPhone14.png.eeimg.400.1-1.default.jpg","speciality":"50GB Data","company":"Apple","model":"12 Pro","price":"39"},
+        {"discount":"10","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/Galaxy-A54_237x237.png.eeimg.400.1-1.default.jpg","speciality":"Unlimited","company":"Samsung Galaxy","model":"A54 Ultra","price":"40"},
+        {"discount":"40","img":"https://ee.co.uk/content/dam/ee-homepage/Deals/S23-Ultra_237x237.png.eeimg.400.1-1.default.jpg","speciality":"15GB Data","company":"Samsung Galaxy","model":"S21 Ultra","price":"35"}
+    ]
+}
