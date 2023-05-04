@@ -8,7 +8,7 @@ export function Main() {
     
     return (
         <div className='body'>
-            <Header />
+            <Header isHome={true}/>
             <Body />
             <Footer />
         </div>
